@@ -27,7 +27,7 @@ In this lab, we'll be manipulating the session hash *across HTTP requests*. That
 
 ### Using Sessions in Sinatra
 
-Open up the controller file of this project, `app.rb`. Check out the following lines of code: 
+Open up the controller file of this project, `app.rb`. Check out the following lines of code:
 
 ```ruby
 configure do
